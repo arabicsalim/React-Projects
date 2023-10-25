@@ -6,10 +6,6 @@
 
 Created and maintained with ❤️ by ArabicsSalim
 
-## Design files
-
-If you need the design files, you can download them from Figma's Community 👉 https://bit.ly/401KSUS
-
 ## Usage
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
